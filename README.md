@@ -8,4 +8,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusukeono&show_icons=true&locale=en&layout=compact" alt="yusukeono" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusukeono&show_icons=true&locale=en" alt="yusukeono" /></p>
+![Stats](profile/stats.svg)
